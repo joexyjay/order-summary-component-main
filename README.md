@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/joexyjay/order-summary-component-main.git
+- Live Site URL: https://joexyjay.github.io/order-summary-component-main/
 
 
 ### Built with
